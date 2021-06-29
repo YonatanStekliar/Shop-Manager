@@ -1,9 +1,5 @@
 package Main;
 
-// Submitted By:
-// Bar Mizrahi - 316080365
-// Yonatan Stekliar - 316554260
-
 import javafx.stage.Stage;
 
 import java.io.File;
